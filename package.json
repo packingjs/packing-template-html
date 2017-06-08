@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhongzhi107/packing-template-html.git"
+    "url": "git+https://github.com/packingjs/packing-template-html.git"
   },
   "keywords": [
     "html",
@@ -19,9 +19,9 @@
   "author": "zhongzhi <zhong.zhi@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhongzhi107/packing-template-html/issues"
+    "url": "https://github.com/packingjs/packing-template-html/issues"
   },
-  "homepage": "https://github.com/zhongzhi107/packing-template-html#readme",
+  "homepage": "https://github.com/packingjs/packing-template-html#readme",
   "dependencies": {
     "clear-require": "^1.0.1",
     "object-assign": "^4.1.0"
