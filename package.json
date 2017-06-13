@@ -1,6 +1,6 @@
 {
   "name": "packing-template-html",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "html template middleware for express",
   "main": "index.js",
   "scripts": {
