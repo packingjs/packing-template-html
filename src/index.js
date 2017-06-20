@@ -8,6 +8,7 @@ module.exports = function(options) {
     extension: '.html',
     templates: '.',
     mockData: '.',
+    globalData: '__global.js',
     rewriteRules: {}
   }, options);
   return async (req, res, next) => {
